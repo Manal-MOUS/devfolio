@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: ` https://manal-mous.github.io/devfolio/`,
+    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
     // Your Name
     name: 'Manal MOUS',
     // Main Site Title
-    title: `Manal MOUS | Etudiante M1 Data Science en Santé`,
+    title: `Manal MOUS | devfolio `,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Etudiante M1 Data Science en Santé à l'UFR3S-Faculté Ingénierie et Management de la Santé`,
     // Optional: Github account URL
     github: `https://github.com/Manal-MOUS`,
     // Optional: LinkedIn account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: Codecademy account URL
     codecademy: `https://www.codecademy.com/profiles/tera3086148341`
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet an.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
